@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhruv/Desktop/SW Testing/library/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
